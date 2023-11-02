@@ -249,7 +249,7 @@ a {
         /* Lengths */
 
         --maxWidth-Container: 144.000rem;
-        --maxHeight-Container: 100%;
+        --maxHeight-Container: 80.000rem;
 
         --maxWidth-LayoutArea: 92.000rem;
         --maxHeight-LayoutArea: 50.000rem;
