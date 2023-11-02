@@ -263,7 +263,7 @@ a {
 
         /* Padding */
 
-        --pd-Block-Container: 0;
+        --pd-Block-Container: 17.100rem 12.900rem;
         --pd-Inline-Container: 0;
 
     }
@@ -271,7 +271,7 @@ a {
     /* LAYOUT STYLES */
 
     .container {
-        place-content: center;
+        justify-items: center;
     }
 
     .layout__area {
