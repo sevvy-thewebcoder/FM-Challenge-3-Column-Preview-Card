@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview](./screenshot.jpg)
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/sevvy-thewebcoder/FM-Challenge-3-Column-Preview-Card)
+- Live Site URL: [3-column-preview-card](https://fm-challenge-3-column-preview-card.netlify.app/)
 
 ## My process
 
